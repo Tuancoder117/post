@@ -1,0 +1,3 @@
+fa fa-trash-o fa-fw (class nút xóa logo)
+
+fa fa-fw fa-trash text-danger class nutsxoas ảnh chi tiết
